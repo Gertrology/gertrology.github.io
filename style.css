@@ -47,6 +47,7 @@ a:hover {
 p#pleft {
     max-width:20em;
     float:left;
+    margin-left:20px; 
 }
 p#pright {
     max-width:20em;
